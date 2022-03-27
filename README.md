@@ -1,4 +1,4 @@
-# partyx
+# Sublease Finder
 
 A new Flutter project.
 
